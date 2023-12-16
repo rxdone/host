@@ -1,0 +1,27 @@
+{
+    
+	"activeBanner" : "fan",
+	"activeInterstitial" : "fan",
+	"activeRewarded" : "fan",
+	"activeNative" : "fan",
+	
+	"premiumPoster_Rewarded" : "on",
+	"premiumCard_Rewarded" : "on",
+	
+	"INTERSTITIAL_FACEBOOK" : "IMG_16_9_APP_INSTALL#195566069137436_195568882470488",
+	"BANNER_FACEBOOK" : "IMG_16_9_APP_INSTALL#195566069137436_195566845804025",
+	"NATIVE_FACEBOOK" : "IMG_16_9_APP_INSTALL#195566069137436_634916691869036",
+	
+	"MAX_INTERSTITIAL" : "a78ca2c8895a88eb",
+	"MAX_BANNER" : "d24cb577cecd2e87",
+	"MAX_NATIVE" : "6e5e74b4c07e29df",
+	"MAX_REWARDED" : "ed78a259fbb8ec10",
+	
+	"ADMOB_INTERSTITIAL" : "ca-app-pub-3940256099942544/1033173712",
+	"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
+	"ADMOB_NATIVE" : "ca-app-pub-3940256099942544/2247696110",
+	"ADMOB_REWARDED" : "ca-app-pub-3940256099942544/5354046379"
+	
+	
+	
+}
