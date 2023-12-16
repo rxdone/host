@@ -16,9 +16,9 @@
       "IronKey": "",
       "AdsCount": "2",
       "ActiveApp": "yes",
-      "AdsSwitchBanner": "admob", // Switch for Banner Ads (admob, fan, unity, max, iron)
-      "AdsSwitchInterstitial": "admob", // Switch for Interstitial Ads (admob, fan, unity, max, iron)
-      "AdsSwitchNative": "admob" // Switch for Native Ads (admob, fan, max, iron)
+      "AdsSwitchBanner": "fan", // Switch for Banner Ads (admob, fan, unity, max, iron)
+      "AdsSwitchInterstitial": "fan", // Switch for Interstitial Ads (admob, fan, unity, max, iron)
+      "AdsSwitchNative": "fan" // Switch for Native Ads (admob, fan, max, iron)
     }
   ]
 }
