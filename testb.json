@@ -3,7 +3,7 @@
 	"activeBanner" : "fan",
 	"activeInterstitial" : "fan",
 	"activeRewarded" : "admob",
-	"activeNative" : "fan",
+	"activeNative" : "admob",
 	
 	"premiumPoster_Rewarded" : "on",
 	"premiumCard_Rewarded" : "on",
