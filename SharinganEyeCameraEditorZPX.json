@@ -20,10 +20,10 @@
 
             "IronKey": "",
 
-            "AdsCount": "20",
+            "AdsCount": "2",
             "ActiveApp": "yes",
             "AdsSwitchBanner": "admob",
-            "AdsSwitchInterstitial": "admob",
+            "AdsSwitchInterstitial": "fan",
             "AdsSwitchNative": "admob"
         }
     ]
