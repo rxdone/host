@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "AdmobInterstitial": "ca-app-pub-4440233399942333/3333133333",
-      "AdmobBanner": "ca-app-pub-4444256094442333/3330378333",
-      "AdmobNative": "ca-app-pub-4440254449942333/3337336333",
+      "AdmobInterstitial": "ca-app-pub-7401359776648318/1207706707",
+      "AdmobBanner": "ca-app-pub-7401359776648318/1257460559",
+      "AdmobNative": "ca-app-pub-7401359776648318/6549277699",
       "FanInterstitial": "IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
       "FanBanner": "IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
       "FanNative": "IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
@@ -14,7 +14,7 @@
       "MaxBanner": "027e687b7e751c3f",
       "MaxNative": "d0dc905cac562b40",
       "IronKey": "",
-      "AdsCount": "2",
+      "AdsCount": "3",
       "ActiveApp": "yes",
       "AdsSwitchBanner": "admob", // Switch for Banner Ads (admob, fan, unity, max, iron)
       "AdsSwitchInterstitial": "admob", // Switch for Interstitial Ads (admob, fan, unity, max, iron)
